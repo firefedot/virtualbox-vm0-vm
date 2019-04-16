@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+# two script
 list="/home/netfilter/VBoxHardenedLoader-5.18/Binary/data/vm.list"
 for i in `ls ~/VirtualBox\ VMs/ | sort`
 do
